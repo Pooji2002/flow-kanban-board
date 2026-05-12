@@ -1,31 +1,3 @@
-// import Board from "./components/Board";
-// import { Toaster } from "react-hot-toast";
-
-// function App() {
-//   return (
-//     <div className="min-h-screen bg-gradient-to-br from-gray-100 to-gray-200 p-6">
-
-//       <Toaster position="top-center" />
-
-//       <div className="text-center mb-8">
-//         <h1 className="text-5xl font-bold text-gray-800 mb-2">
-//           Flow Kanban Board
-//         </h1>
-
-//         <p className="text-gray-600">
-//           Manage your tasks efficiently
-//         </p>
-//       </div>
-
-//       <Board />
-//     </div>
-//   );
-// }
-
-// export default App;
-
-
-
 
 import Board from "./components/Board";
 import { Toaster } from "react-hot-toast";
